@@ -1,88 +1,86 @@
-# 👨‍💻 Abdulaziz | Creative Fullstack Developer & AI Enthusiast 🌟  
+<h1 align="center">Hi there, I'm Abdulaziz! 👋</h1>
 
-![Header](./assets/header.gif)
-
----
-
-### 🌟 About Me:
-- 🎓 **Third-Year Computer Engineering Student** at Biruni University.
-- 🤖 **Currently Learning:** Machine Learning and Artificial Intelligence.
-- 💻 **Passionate About:** Building innovative and tech-driven solutions.
-- 🚀 **Future Goals:** Master advanced AI technologies and contribute to global tech innovation.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7941D&center=true&width=435&lines=Software+Engineer+%7C+Backend+Developer;Passionate+About+Spring+Boot+%26+Java;Building+Scalable+%26+Secure+Apps;Learning+%7C+Building+%7C+Innovating" alt="Typing Animation" />
+</p>
 
 ---
 
-### 🌐 Tech Stack:
-| **Languages** | **Frameworks & Libraries** | **Tools** |
-|---------------|----------------------------|-----------|
-| ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) | ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visual-studio-code&logoColor=white) |
+### 🚀 About Me:
+🔹 Passionate **Software Engineer** focused on building **scalable, high-performance applications**  
+🔹 Strong experience in **backend development, databases, and containerization**  
+🔹 Always exploring **new technologies** and best practices in software engineering  
 
 ---
 
-### 🎨 Portfolio Highlights:
-#### 🚀 **[Project 1](#)**: AI-Powered Chatbot
-- 🤖 Built a chatbot capable of intelligent conversations using Natural Language Processing.
-- 🛠️ Stack: Python, TensorFlow, Flask
+### 🛠️ Tech Stack & Tools:
 
-#### 🌟 **[Project 2](#)**: 3D Developer Portfolio
-- 🖥️ Interactive portfolio featuring 3D animations using Three.js.
-- 🛠️ Stack: React, Three.js, HTML/CSS
+#### 🔹 **Backend Development**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+</p>
 
----
+#### 🔹 **Database Management**  
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-### 🎥 Cool 3D Animation:
-> Check out this interactive 3D animation of a laptop with tech effects!  
-[![3D Animation Preview](./assets/3d_preview.gif)](https://your-portfolio-link.com)
+#### 🔹 **DevOps & Tools**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
----
-
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdulaziz&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulaziz&layout=compact&theme=radical)
-
----
-
-### 📞 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulaziz)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?logo=dribbble&logoColor=white)](https://yourportfolio-link.com)  
-[![Email](https://img.shields.io/badge/-Email-green?logo=gmail&logoColor=white)](mailto:abdulaziz@example.com)
-
----
-
-### 🛠️ Quick Setup:
-1. Create a folder named `assets` in the root of your repo.
-2. Place your header GIF (like `header.gif`) and a 3D preview animation GIF (e.g., `3d_preview.gif`) in the `assets` folder.
-3. Replace `./assets/header.gif` and `./assets/3d_preview.gif` in the README template with your file paths.
-4. For interactivity, host your portfolio with 3D animations on GitHub Pages or an equivalent platform and link it.
+#### 🔹 **Frontend Development**  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
 ---
 
-### Optional: Create a 3D Animation Portfolio
-#### **Steps:**
-1. Use **React with Three.js** for the 3D animation:
-   - Install `react-three-fiber` for seamless 3D rendering.
-   - Design a tech-inspired 3D model (e.g., a laptop or AI brain) using Blender or pre-made assets.
+### 📊 GitHub Stats & Contributions:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulaziz&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulaziz&theme=radical" alt="GitHub Streak" width="45%"/>
+</p>
 
-2. Example React Code (3D Animation):
-   ```jsx
-   import React from 'react';
-   import { Canvas } from '@react-three/fiber';
-   import { OrbitControls, Sphere } from '@react-three/drei';
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdulaziz&theme=radical" alt="GitHub Profile Summary" width="90%"/>
+</p>
 
-   const ThreeDModel = () => {
-       return (
-           <Canvas>
-               <OrbitControls />
-               <ambientLight intensity={0.5} />
-               <directionalLight position={[2, 2, 2]} />
-               <Sphere visible args={[1, 32, 32]}>
-                   <meshStandardMaterial color="hotpink" />
-               </Sphere>
-           </Canvas>
-       );
-   };
+---
 
-   export default ThreeDModel;
+### 📚 Currently Learning:
+✔ Advanced **Spring Boot & Microservices**  
+✔ System Design & Scalable Architectures  
+✔ Security Best Practices in Web Applications  
+✔ Cloud Computing (AWS, Azure)  
 
+---
+
+### 📬 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdulazeez-kimsanbayev-67a842255">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/abdulazeez1718">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:your.abdulazizkimsanbayev1718@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+✨ **Always exploring, building, and innovating!** 🚀
 
