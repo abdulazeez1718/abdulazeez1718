@@ -1,100 +1,96 @@
-<h1 align="center">Hi there, I'm Abdulaziz! 👋</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abdulazeez1718/abdulazeez1718/main/assets/header.gif" alt="Hey there!" width="100%"/>
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7941D&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+Backend+Developer;Spring+Boot+%26+Java+Enthusiast;Building+Scalable+%26+Secure+Apps;Learning+%7C+Building+%7C+Innovating" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7941D&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Abdulaziz!+%F0%9F%91%8B;Software+Engineer+from+Uzbekistan;Backend+Developer+%26+Tech+Enthusiast;Always+learning%2C+always+growing" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulazeez1718&label=Profile%20views&color=F7941D&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abdulazeez1718&style=for-the-badge&color=F7941D" alt="Profile Views"/>
+  <a href="https://wakatime.com/@abdulazeez1718">
+    <img src="https://wakatime.com/badge/user/abdulazeez1718.svg?style=for-the-badge" alt="Wakatime Stats"/>
+  </a>
+</div>
+
+<h2>🌟 About Me</h2>
+
+```javascript
+const abdulaziz = {
+    location: "Tashkent, Uzbekistan 🇺🇿",
+    timeZone: "UTC+5 (Tashkent Time)",
+    currentFocus: "Building scalable backend systems",
+    interests: ["Software Architecture", "System Design", "AI/ML"],
+    technologies: {
+        backend: ["Java", "Spring Boot", "Spring Framework", "Hibernate"],
+        databases: ["PostgreSQL", "MySQL", "Redis"],
+        devOps: ["Docker", "Git", "Jenkins"],
+        frontend: ["HTML", "CSS", "JavaScript", "Bootstrap"]
+    },
+    currentLearning: ["Microservices", "Cloud Architecture", "Advanced Spring"],
+    funFact: "I can debug code faster than I can debug my life! 😄"
+};
+```
+
+<img align="right" alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/abdulazeez1718/abdulazeez1718/main/assets/coding.gif"/>
+
+### 🌍 Find me around the web:
+- 💼 Connecting on [LinkedIn](https://www.linkedin.com/in/abdulazeez-kimsanbayev-67a842255)
+- 📸 Following my journey on [Instagram](https://instagram.com/your_instagram)
+- 🐦 Tweeting about tech on [Twitter](https://twitter.com/your_twitter)
+- 📱 Sharing updates on [Telegram](https://t.me/your_telegram)
+- 💻 Contributing on [GitHub](https://github.com/abdulazeez1718)
+
+### ⚡ Current Status:
+- 🔭 Working on: AI-powered research tools
+- 🌱 Learning: Cloud architecture and microservices
+- 👯 Looking to collaborate on: Open source projects
+- 💬 Ask me about: Java, Spring Boot, or System Design
+- ⚡ Available: For freelance projects and consulting
+
+<h2>📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulazeez1718&show_icons=true&theme=radical&hide_border=true" width="48%" alt="Abdulaziz's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulazeez1718&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulazeez1718&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="Trophy"/>
+</div>
+
+### 🕒 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Java         12 hrs 30 mins  ███████████░░░░  45.0%
+SQL          5 hrs 15 mins   ██████░░░░░░░░░  19.0%
+JavaScript   4 hrs 10 mins   ████░░░░░░░░░░░  15.0%
+Docker       3 hrs 20 mins   ███░░░░░░░░░░░░  12.0%
+Other        2 hrs 30 mins   ██░░░░░░░░░░░░░   9.0%
+```
+<!--END_SECTION:waka-->
+
+<h2>🛠️ Technologies & Tools</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
+
+<div align="center">
+  <h3>🎵 Vibing to</h3>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" alt="Spotify Now Playing" width="350"/>
 </div>
 
 ---
 
-### 🚀 About Me
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-🔹 Passionate **Software Engineer** focused on building **scalable, high-performance applications**  
-🔹 Strong experience in **backend development, databases, and containerization**  
-🔹 Always exploring **new technologies** and best practices in software engineering  
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### 🔹 Backend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
-</p>
-
-#### 🔹 Database Management
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-#### 🔹 DevOps & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-</p>
-
-#### 🔹 Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats & Contributions
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulazeez1718&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulazeez1718&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulazeez1718&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%" />
-</div>
-
----
-
-### 📚 Currently Learning
-✨ Advanced **Spring Boot & Microservices Architecture**  
-✨ System Design & Scalable Architectures  
-✨ Cloud Native Development (AWS, Azure)  
-✨ Security Best Practices & OAuth 2.0  
-
----
-
-### 📬 Let's Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdulazeez-kimsanbayev-67a842255">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/abdulazeez1718">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:abdulazizkimsanbayev1718@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
