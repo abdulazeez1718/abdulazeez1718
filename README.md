@@ -23,12 +23,12 @@
 
 ## 🛠️ Tech Stack (Auto Themed)
 
+## 🛠️ Tech Stack
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,spring,java,postgres,mongodb,docker,git,github,aws,vite,figma&theme=dark">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,spring,java,postgres,mongodb,docker,git,github,aws,vite,figma&theme=light" alt="Tech Stack" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css,vite,spring,java,nodejs,express,postgres,mongodb,docker,git,github,aws,figma,postman&theme=dark" />
 </p>
+
 
 ---
 
